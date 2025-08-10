@@ -28,9 +28,5 @@
   "bugs": {
     "url": "https://github.com/parshvi1508/SheSpeaks_2025_ACM-W/issues"
   },
-  "homepage": "https://github.com/parshvi1508/SheSpeaks_2025_ACM-W",
-  "dependencies": {
-    "dotenv": "^16.5.0",
-    "firebase": "^11.9.1"
-  }
+  "homepage": "https://github.com/parshvi1508/SheSpeaks_2025_ACM-W"
 }
